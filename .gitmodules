@@ -1,0 +1,6 @@
+[submodule "custom-stm-design"]
+	path = custom-stm-design
+	url = https://github.com/AhmedAdelWafdy7/custom-stm-design.git
+[submodule "lib/custom-stm-design"]
+	path = lib/custom-stm-design
+	url = https://github.com/AhmedAdelWafdy7/custom-stm-design.git
