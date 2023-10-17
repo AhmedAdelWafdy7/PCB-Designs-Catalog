@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repo where I showcase some of my advanced PCB designs. I have created various projects using FPGA+Soc, stm32, esp and more. You can find the schematics, layouts, BOMs and firmware for each design in the corresponding folders.
 
-One of my most recent and exciting projects is the custom-stm-design, which is a custom PCB board based on the STM32F103C8T6 microcontroller. This board is designed to be versatile, powerful, and easy to use. It has the following features:
+One of my most recent and exciting projects is the custom-stm-design, which is a custom PCB board based on the STM32F405x microcontroller. This board is designed to be versatile, powerful, and easy to use. It has the following features:
 
   ![custom_stm_design_Front](https://github.com/AhmedAdelWafdy7/PCB-Designs-Catalog/assets/107740350/d1db91db-ce9d-4dc6-a3d3-3984f683e59f)
         
